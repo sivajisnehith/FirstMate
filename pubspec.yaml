@@ -1,0 +1,14 @@
+name: first_mate
+description: First Mate app for issue tracking.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  flutter_markdown: ^0.7.3
+
+flutter:
+  uses-material-design: true
